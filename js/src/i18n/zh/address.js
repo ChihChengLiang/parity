@@ -16,12 +16,12 @@
 
 export default {
   buttons: {
-    edit: `编辑`,//edit
-    forget: `忘记`,//forget
-    save: `保存`//save
+    edit: `编辑`, // edit
+    forget: `忘记`, // forget
+    save: `保存`// save
   },
   delete: {
-    confirmInfo: `你确定你想把下面的地址从你的地址簿中移除吗？`,//Are you sure you want to remove the following address from your addressbook?
+    confirmInfo: `你确定你想把下面的地址从你的地址簿中移除吗？`, // Are you sure you want to remove the following address from your addressbook?
     title: `confirm removal确认移除`
   },
   title: `Address Information地址信息`

@@ -16,14 +16,14 @@
 
 export default {
   button: {
-    newAccount: `帳戶`,//account
-    newWallet: `錢包`,//wallet
-    vaults: `保險庫`//vaults
+    newAccount: `帳戶`, // account
+    newWallet: `錢包`, // wallet
+    vaults: `保險庫`// vaults
   },
   summary: {
-    minedBlock: `在第#{blockNumber}個區塊被挖出`//Mined at block #{blockNumber}
+    minedBlock: `在第#{blockNumber}個區塊被挖出`// Mined at block #{blockNumber}
   },
-  title: `帳戶總覽`,//Accounts Overview
+  title: `帳戶總覽`, // Accounts Overview
   tooltip: {
     actions: `actions relating to the current view are available on the toolbar for quick access, be it for performing actions or creating a new item`,
     overview: `your accounts are visible for easy access, allowing you to edit the meta information, make transfers, view transactions and fund the account`

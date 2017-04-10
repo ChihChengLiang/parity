@@ -16,7 +16,7 @@
 
 export default {
   frame: {
-    error: `錯誤：這個應用不能也不應該載入到內建框架中`//ERROR: This application cannot and should not be loaded in an embedded iFrame
+    error: `錯誤：這個應用不能也不應該載入到內建框架中`// ERROR: This application cannot and should not be loaded in an embedded iFrame
   },
   status: {
     consensus: {
